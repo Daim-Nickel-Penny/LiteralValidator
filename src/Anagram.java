@@ -1,4 +1,4 @@
-
+//Check whether two strings are anagram of each other
 import java.util.Arrays;
 
 class Anagram {
